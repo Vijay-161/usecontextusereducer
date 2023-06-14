@@ -1,0 +1,54 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "desc": "State management in react",
+      "important": true
+    },
+    {
+      "id": 2,
+      "desc": "daisyUI provides a useful component library",
+      "important": false
+    },
+    {
+      "id": 3,
+      "desc": "ContextAPI with react.js is powerful",
+      "important": true
+    },
+    {
+      "desc": "New note",
+      "important": false,
+      "id": 4
+    },
+    {
+      "desc": "New",
+      "important": true,
+      "id": 5
+    },
+    {
+      "desc": "other",
+      "important": false,
+      "id": 6
+    },
+    {
+      "desc": "fgf",
+      "important": false,
+      "id": 7
+    },
+    {
+      "desc": "wos",
+      "important": true,
+      "id": 8
+    },
+    {
+      "desc": "Hellow",
+      "important": true,
+      "id": 9
+    },
+    {
+      "desc": "A b c d e f g h i j k l m n o p q r s t u v w x y z ",
+      "important": false,
+      "id": 10
+    }
+  ]
+}
